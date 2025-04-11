@@ -21,6 +21,8 @@
 
 Welcome to the **Roblox Script Loader Collection**! This repository contains a collection of useful Roblox scripts that are dynamically loaded via <code>loadstring()</code> for convenience.
 
+All the scripts can be found on either <code>release</code> or here!
+
 ---
 
 <details>
