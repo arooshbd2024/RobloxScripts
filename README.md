@@ -1,15 +1,19 @@
 # ⚠️ DISCLAIMER ⚠️
 
-**WARNING: Use at your own risk.** The scripts provided in this repository are intended for personal use and experimentation only. By using or accessing these scripts, you acknowledge the following:
+<details>
+  <summary><strong>WARNING: Use at your own risk.</strong></summary>
+  
+  The scripts provided in this repository are intended for personal use and experimentation only. By using or accessing these scripts, you acknowledge the following:
 
-<ul>
-    <li><strong>We are not responsible</strong> for any consequences, including but not limited to account bans, device damage, or any other harm resulting from using these scripts.</li>
-    <li>If you are banned from Roblox or face any negative outcomes, <strong>we are not liable</strong>.</li>
-    <li>The scripts are provided <strong>as-is</strong>, with no guarantee of functionality or future updates.</li>
-    <li><strong>You have no right to sue</strong> or take legal action against us for any issues or dissatisfaction with the scripts provided.</li>
-</ul>
+  <ul>
+      <li><strong>We are not responsible</strong> for any consequences, including but not limited to account bans, device damage, or any other harm resulting from using these scripts.</li>
+      <li>If you are banned from Roblox or face any negative outcomes, <strong>we are not liable</strong>.</li>
+      <li>The scripts are provided <strong>as-is</strong>, with no guarantee of functionality or future updates.</li>
+      <li><strong>You have no right to sue</strong> or take legal action against us for any issues or dissatisfaction with the scripts provided.</li>
+  </ul>
 
-<p>Proceed only if you understand and accept the risks associated with using these scripts. <strong>By continuing to use them, you agree to the terms of the <a href="LICENSE">No Redistribution License (NRL)</a>.</strong></p>
+  <p>Proceed only if you understand and accept the risks associated with using these scripts. <strong>By continuing to use them, you agree to the terms of the <a href="LICENSE">No Redistribution License (NRL)</a>.</strong></p>
+</details>
 
 ---
 
