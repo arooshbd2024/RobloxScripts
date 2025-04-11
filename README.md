@@ -23,15 +23,19 @@ Welcome to the **Roblox Script Loader Collection**! This repository contains a c
 
 ---
 
-## 🌟 Table of Contents
+<details>
+  <summary><strong>🌟 Table of Contents</strong></summary>
 
-<ul>
+  <ul>
     <li><a href="#itemtagger20-script">ItemTagger2.0 Script</a></li>
     <li><a href="#more-scripts-coming-soon">More Scripts Coming Soon</a></li>
     <li><a href="#important-notice">Important Notice</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contributors">Contributors</a></li>
-</ul>
+  </ul>
+  
+</details>
+
 
 ---
 
