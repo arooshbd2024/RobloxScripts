@@ -103,4 +103,3 @@ Feel free to contribute or suggest new scripts by creating a pull request!
 ---
 
 Thanks for checking out the Roblox Script Loader Collection! Happy developing! 🚀
-```
