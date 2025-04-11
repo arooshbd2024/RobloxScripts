@@ -1,5 +1,7 @@
 <details>
   <summary><strong>⚠️ DISCLAIMER ⚠️</strong></summary>
+
+  <br>
   
   The scripts provided in this repository are intended for personal use and experimentation only. By using or accessing these scripts, you acknowledge the following:
 
