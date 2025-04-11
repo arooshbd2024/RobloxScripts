@@ -43,9 +43,18 @@ We're constantly adding new scripts to the collection. Stay tuned for more usefu
 
 ---
 
+## 🚨 Disclaimer
+
+By using these scripts, you acknowledge and agree to the following:
+- **We are not responsible for any bans, penalties, or other consequences** that may result from using these scripts in Roblox.
+- **Use at your own risk**—if this script causes any harm to your account, device, or experience, we hold no liability.
+- **There is no guarantee of functionality or updates**—if the script does not work as expected, you have no right to demand fixes or take legal action against us.
+
+---
+
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **No Redistribution License (NRL)**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
@@ -57,5 +66,4 @@ Feel free to contribute or suggest new scripts by creating a pull request!
 
 ---
 
-Thanks for checking out the Roblox Script Loader Collection! Happy developing!
-
+Thanks for checking out the Roblox Script Loader Collection! Happy scripting!
